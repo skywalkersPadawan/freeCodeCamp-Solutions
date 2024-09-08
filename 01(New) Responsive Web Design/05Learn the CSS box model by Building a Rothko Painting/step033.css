@@ -1,6 +1,7 @@
 .two {
-    width: 475px;
-    height: 200px;
-    background-color: #8f0401;
-    margin: 0 auto 20px;
-  }
+  width: 475px;
+  height: 200px;
+  background-color: #8f0401;
+  /* remove the margin auto and add the following line */
+  margin: 0 auto 20px;
+}
