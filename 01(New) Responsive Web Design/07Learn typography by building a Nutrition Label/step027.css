@@ -1,7 +1,8 @@
 .large {
-    height: 10px;
+  height: 10px;
 }
 
-.large, .medium {
-    background-color: black;
+.large,
+.medium {
+  background-color: black;
 }
