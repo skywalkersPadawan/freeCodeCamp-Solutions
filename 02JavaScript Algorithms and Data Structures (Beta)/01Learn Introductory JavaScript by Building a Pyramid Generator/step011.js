@@ -1,0 +1,1 @@
+secondCharacter = character;
