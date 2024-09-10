@@ -1,0 +1,10 @@
+.box {
+  width: 400px;
+  height: 600px;
+  background-color: #000;
+  position: absolute;
+  left: 650px;
+  top: 800px;
+}
+
+/* remove all of the above css declarations */

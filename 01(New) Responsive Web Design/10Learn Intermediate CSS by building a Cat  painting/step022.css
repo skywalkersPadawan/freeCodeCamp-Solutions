@@ -1,0 +1,9 @@
+.cat-right-ear {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-left: 35px solid blue;
+  border-right: 35px solid blue;
+  border-top: 35px solid red;
+  border-bottom: 35px solid red;
+}

@@ -1,0 +1,10 @@
+.cat-head {
+  width: 205px;
+  height: 180px;
+  border: 1px solid #000;
+  border-radius: 46%;
+  background: linear-gradient(to bottom, #5e5e5e 85%, #45454f 100%);
+  position: fixed; /* change this one property to fixed */
+  top: 100px;
+  left: 100px;
+}
