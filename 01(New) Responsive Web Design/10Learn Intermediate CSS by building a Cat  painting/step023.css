@@ -1,0 +1,8 @@
+.cat-right-ear {
+  height: 0px;
+  width: 0px;
+  border-left: 35px solid transparent;
+  border-right: 35px solid transparent;
+  border-top: 35px solid transparent;
+  border-bottom: 35px solid red;
+}
