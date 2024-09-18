@@ -1,9 +1,9 @@
 .fb5 {
   width: 10%;
   height: 33%;
-  background-color: var(
+  /*  background-color: var(
     --building-color2
-  ); /* just remove this line to pass this challenge */
+  ); */ /* just remove this line to pass this challenge */
   position: relative;
   right: 10%;
   background: repeating-linear-gradient(
