@@ -1,0 +1,3 @@
+while (continueLoop) {
+  done++;
+}
