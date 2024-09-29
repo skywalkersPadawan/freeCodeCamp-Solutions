@@ -6,10 +6,4 @@ for (let i = 1; i <= count; i++) {
   }
 }
 
-while (rows.length < count) {
-  rows.push(padRow(rows.length + 1, count));
-}
-
-for (let i = count; i > 0; i--) {
-  rows.push(padRow(i, count));
-}
+// this is the solution for this challenge and just remove the comments and submit the code and it will pass
