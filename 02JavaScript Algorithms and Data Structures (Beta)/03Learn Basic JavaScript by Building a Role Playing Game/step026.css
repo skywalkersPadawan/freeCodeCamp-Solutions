@@ -1,0 +1,7 @@
+#monsterStats {
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+  padding: 5px;
+  background-color: #c70d0d;
+  display: none; /* just add this css propety to pass this challenge */
+}

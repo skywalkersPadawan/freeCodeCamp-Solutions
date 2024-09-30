@@ -1,0 +1,3 @@
+const cat = {
+  name: "Whiskers",
+};

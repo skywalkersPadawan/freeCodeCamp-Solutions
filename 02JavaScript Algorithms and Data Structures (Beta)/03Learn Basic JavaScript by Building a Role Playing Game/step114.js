@@ -1,0 +1,2 @@
+function attack() {}
+function dodge() {}
