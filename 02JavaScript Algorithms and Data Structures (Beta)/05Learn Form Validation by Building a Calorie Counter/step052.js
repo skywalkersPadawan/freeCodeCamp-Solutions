@@ -1,0 +1,1 @@
+addEntryButton.addEventListener("click", addEntry);

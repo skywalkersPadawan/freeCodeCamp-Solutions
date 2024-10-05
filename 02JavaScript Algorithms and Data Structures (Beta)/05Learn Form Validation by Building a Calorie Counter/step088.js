@@ -1,0 +1,1 @@
+calorieCounter.addEventListener("submit", calculateCalories);

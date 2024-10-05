@@ -1,0 +1,1 @@
+clearButton.addEventListener("click", clearForm);
