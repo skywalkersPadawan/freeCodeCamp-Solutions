@@ -1,0 +1,1 @@
+renderSongs(sortSongs());
