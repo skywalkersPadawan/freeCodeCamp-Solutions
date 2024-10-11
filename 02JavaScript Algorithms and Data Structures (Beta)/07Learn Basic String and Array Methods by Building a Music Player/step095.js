@@ -1,0 +1,1 @@
+audio.addEventListener("ended", () => {});
