@@ -1,0 +1,1 @@
+const minutes = date.getMinutes();

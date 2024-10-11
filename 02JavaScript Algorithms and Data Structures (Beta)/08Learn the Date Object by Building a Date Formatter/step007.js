@@ -1,0 +1,1 @@
+const hours = date.getHours();
