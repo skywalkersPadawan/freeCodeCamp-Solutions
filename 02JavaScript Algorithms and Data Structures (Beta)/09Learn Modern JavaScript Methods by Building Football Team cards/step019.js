@@ -1,0 +1,1 @@
+teamName.textContent = team;

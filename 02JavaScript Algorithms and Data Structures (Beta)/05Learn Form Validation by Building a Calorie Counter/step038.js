@@ -1,1 +1,1 @@
-function addEntry() {}
+console.log(entryDropdown.value);
