@@ -1,0 +1,1 @@
+const sport = myFavoriteFootballTeam.sport;

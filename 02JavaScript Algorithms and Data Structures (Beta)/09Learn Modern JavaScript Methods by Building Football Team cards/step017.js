@@ -1,0 +1,1 @@
+const { coachName } = myFavoriteFootballTeam.headCoach;
