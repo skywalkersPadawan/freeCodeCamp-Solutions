@@ -1,0 +1,2 @@
+const playNextSong = () => {};
+const playPreviousSong = () => {};

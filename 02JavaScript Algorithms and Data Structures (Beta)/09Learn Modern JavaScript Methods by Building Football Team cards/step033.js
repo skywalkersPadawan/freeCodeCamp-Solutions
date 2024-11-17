@@ -1,0 +1,1 @@
+playersDropdownList.addEventListener("change", () => {});

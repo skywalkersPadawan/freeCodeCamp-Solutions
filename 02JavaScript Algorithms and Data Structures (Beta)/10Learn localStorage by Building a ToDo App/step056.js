@@ -1,0 +1,1 @@
+nextButton.addEventListener("click", playNextSong);

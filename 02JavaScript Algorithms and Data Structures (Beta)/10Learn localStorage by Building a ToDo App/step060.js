@@ -1,0 +1,1 @@
+previousButton.addEventListener("click", playPreviousSong);
