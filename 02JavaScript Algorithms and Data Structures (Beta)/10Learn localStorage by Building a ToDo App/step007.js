@@ -1,1 +1,3 @@
-const audio = new Audio();
+closeTaskFormBtn.addEventListener("click", () => {
+  confirmCloseDialog.showModal();
+});

@@ -1,1 +1,3 @@
-let userData = {};
+cancelBtn.addEventListener("click", () => {
+  confirmCloseDialog.close();
+});

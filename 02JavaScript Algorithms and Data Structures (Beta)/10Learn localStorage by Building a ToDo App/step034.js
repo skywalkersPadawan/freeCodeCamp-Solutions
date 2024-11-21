@@ -1,1 +1,0 @@
-renderSongs(sortSongs());
