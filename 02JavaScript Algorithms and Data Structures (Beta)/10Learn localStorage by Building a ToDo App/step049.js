@@ -1,1 +1,0 @@
-pauseButton.addEventListener("click", pauseSong);

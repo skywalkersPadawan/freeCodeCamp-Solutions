@@ -1,1 +1,0 @@
-playlistSongs.innerHTML = songsHTML;

@@ -1,1 +1,0 @@
-userData.currentSong = song;
