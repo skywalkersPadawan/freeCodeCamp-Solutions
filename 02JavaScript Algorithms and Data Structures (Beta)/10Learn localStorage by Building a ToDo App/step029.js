@@ -1,0 +1,1 @@
+taskForm.classList.toggle("hidden");
