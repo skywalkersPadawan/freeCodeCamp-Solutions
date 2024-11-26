@@ -1,0 +1,3 @@
+if (taskData.length) {
+  updateTaskContainer();
+}

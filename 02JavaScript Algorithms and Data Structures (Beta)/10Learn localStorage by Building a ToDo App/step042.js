@@ -1,0 +1,1 @@
+const deleteTask = (buttonEl) => {};
