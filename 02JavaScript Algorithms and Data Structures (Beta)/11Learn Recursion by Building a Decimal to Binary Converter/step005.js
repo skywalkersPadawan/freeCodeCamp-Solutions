@@ -1,0 +1,1 @@
+numberInput.addEventListener("keydown", () => {});

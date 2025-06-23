@@ -1,0 +1,1 @@
+convertBtn.addEventListener("click", checkUserInput);
