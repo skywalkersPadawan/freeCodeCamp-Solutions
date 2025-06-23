@@ -1,0 +1,1 @@
+binary = input % 2;

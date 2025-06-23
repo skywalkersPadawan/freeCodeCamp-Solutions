@@ -1,0 +1,1 @@
+decimalToBinary(parseInt(numberInput.value));
