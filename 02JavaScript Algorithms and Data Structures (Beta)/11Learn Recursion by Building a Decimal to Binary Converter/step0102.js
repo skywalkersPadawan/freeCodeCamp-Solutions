@@ -1,0 +1,1 @@
+setTimeout(() => {}, obj.showMsgDelay);
