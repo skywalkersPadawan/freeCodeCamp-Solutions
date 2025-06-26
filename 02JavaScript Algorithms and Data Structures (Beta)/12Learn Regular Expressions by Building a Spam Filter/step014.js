@@ -1,0 +1,1 @@
+const denyList = [helpRegex, dollarRegex];
