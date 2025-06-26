@@ -1,0 +1,1 @@
+const dollarRegex = /dollars/i;
